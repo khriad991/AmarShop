@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e2dbfaf6-3848-4adc-87ab-2a6a7810d8e3" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/amarshop-client/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/amarshop-client/DB/DB.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/amarshop-client/controllers/CategoryController.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/amarshop-client/controllers/authController.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/amarshop-client/helpers/authHelper.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/amarshop-client/instraction.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/amarshop-client/middleWares/authMiddleware.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/amarshop-client/models/CategoryModel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/amarshop-client/models/userModel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/amarshop-client/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/amarshop-client/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/amarshop-client/routes/CategoryRoute.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/amarshop-client/routes/authRoute.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/amarshop-client/server.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/helpers/authHelper.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/middleWares/authMiddleware.js" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2MP8IL6oiQxiynd1S07mqpVaCwN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Kamrul Hasan/Desktop/ecomarch-site/amar-shop-server/apmarshop-client/src",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.keymap",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2022.2\\plugins\\JavaScriptLanguage\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Kamrul Hasan\Desktop\ecomarch-site\amar-shop-server\apmarshop-client\src" />
+      <recent name="C:\Users\Kamrul Hasan\Desktop\ecomarch-site\amar-shop-server\apmarshop-client\public" />
+      <recent name="C:\Users\Kamrul Hasan\Desktop\ecomarch-site\amar-shop-server" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Kamrul Hasan\Desktop\ecomarch-site\amar-shop-server\apmarshop-client\src" />
+      <recent name="C:\Users\Kamrul Hasan\Desktop\ecomarch-site\amar-shop-server\apmarshop-client\src\pages\auth" />
+      <recent name="C:\Users\Kamrul Hasan\Desktop\ecomarch-site\amar-shop-server\apmarshop-client\src\componets\layout" />
+      <recent name="C:\Users\Kamrul Hasan\Desktop\ecomarch-site\amar-shop-server" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e2dbfaf6-3848-4adc-87ab-2a6a7810d8e3" name="Changes" comment="" />
+      <created>1677657779657</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677657779657</updated>
+      <workItem from="1677657780969" duration="6620000" />
+      <workItem from="1677676616493" duration="5553000" />
+      <workItem from="1677693598815" duration="12514000" />
+      <workItem from="1677734471580" duration="15339000" />
+      <workItem from="1677758332607" duration="23748000" />
+      <workItem from="1677816458339" duration="6417000" />
+      <workItem from="1677832818562" duration="6298000" />
+      <workItem from="1677840488170" duration="5889000" />
+      <workItem from="1677856717876" duration="901000" />
+      <workItem from="1677903904728" duration="12141000" />
+      <workItem from="1677925053910" duration="5341000" />
+      <workItem from="1677932675273" duration="19807000" />
+      <workItem from="1677986723083" duration="9873000" />
+      <workItem from="1678014587851" duration="5648000" />
+      <workItem from="1678087631505" duration="1759000" />
+      <workItem from="1678094266998" duration="4746000" />
+      <workItem from="1678117610804" duration="3331000" />
+      <workItem from="1678199025186" duration="593000" />
+      <workItem from="1678205426804" duration="598000" />
+      <workItem from="1678253224409" duration="6911000" />
+      <workItem from="1678353146218" duration="9583000" />
+      <workItem from="1678364829281" duration="6397000" />
+      <workItem from="1678375018943" duration="1857000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

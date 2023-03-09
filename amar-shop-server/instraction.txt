@@ -1,0 +1,30 @@
+
+Project Overview:
+You are tasked with building a simple ecommerce website using the MERN stack. The website should allow users to view products, add them to their cart, and complete an order.The frontend should be built using React, and the backend should be built using Node.js / Express js and MongoDB/ Mongoose.
+
+Assignment Tasks:
+Design the database schema for storing product and order data. Your schema should include at least the following fields for products: title, description, price, image, and quantity. For orders, your schema should include at least the following fields: customer name, email, address, product list, and total price.
+
+
+Implement a backend API using Node.js and Express.js to handle CRUD operations for products and orders. Your API should allow users to retrieve a list of all products, retrieve a single product by ID, add a new product, update an existing product, delete a product, create a new order, and retrieve a list of all orders.
+
+Build a frontend using React to allow users to view and interact with the products and orders. Your frontend should include at least the following pages: home page, product list page, product detail page, cart page, and checkout page. The cart page should allow users to add and remove items from their cart, and the checkout page should allow users to complete an order by entering their name, email, and address information.
+
+Implement authentication and authorization for users. Your website should allow users to sign up and log in using email and password, and only authenticated users should be able to place orders.
+
+Implement payment processing using a third-party payment gateway . Your website should allow users to enter their credit card information and securely process payments for their orders.
+
+Deploy your website to  any hosting service such as Vercel, Render, Railway, Cyclic . Your website should be accessible online and should work correctly on both desktop and mobile devices.
+
+What you Should Submit ?
+
+You should submit only one github repository link in the submit box. But it is to be mentioned that please make a file named note.txt with in this repository and include the following links in the said note.txt file
+
+
+Your client side repository Link
+
+Your server side repository Link
+
+Your deployed version link
+
+

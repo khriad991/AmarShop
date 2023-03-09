@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8f5a3ff8-05ea-4734-ac2c-888f3232dde3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/amar-shop-server/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/amar-shop-server/DB/DB.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/amar-shop-server/controllers/CategoryController.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/amar-shop-server/controllers/authController.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/amar-shop-server/helpers/authHelper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/amar-shop-server/instraction.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/amar-shop-server/middleWares/authMiddleware.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/amar-shop-server/models/CategoryModel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/amar-shop-server/models/userModel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/amar-shop-server/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/amar-shop-server/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/amar-shop-server/routes/CategoryRoute.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/amar-shop-server/routes/authRoute.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/amar-shop-server/server.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/amar-shop-server" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2MmdzKLSMs6X2lsHE8YBDa0N4iw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8f5a3ff8-05ea-4734-ac2c-888f3232dde3" name="Changes" comment="" />
+      <created>1678376956808</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678376956808</updated>
+      <workItem from="1678376958404" duration="702000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
