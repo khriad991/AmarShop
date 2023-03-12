@@ -2,28 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8f5a3ff8-05ea-4734-ac2c-888f3232dde3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/amar-shop-server/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/amar-shop-server/DB/DB.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/amar-shop-server/controllers/CategoryController.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/amar-shop-server/controllers/authController.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/amar-shop-server/helpers/authHelper.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/amar-shop-server/instraction.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/amar-shop-server/middleWares/authMiddleware.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/amar-shop-server/models/CategoryModel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/amar-shop-server/models/userModel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/amar-shop-server/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/amar-shop-server/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/amar-shop-server/routes/CategoryRoute.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/amar-shop-server/routes/authRoute.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/amar-shop-server/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apmarshop-client/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/apmarshop-client/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apmarshop-client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/apmarshop-client/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apmarshop-client/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/apmarshop-client/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apmarshop-client/src/pages/Admin/CreateCategory.js" beforeDir="false" afterPath="$PROJECT_DIR$/apmarshop-client/src/pages/Admin/CreateCategory.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/amar-shop-server" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -34,15 +32,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager">
+    <configuration name="test" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/apmarshop-client/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="test" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.test" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -51,11 +66,41 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678376956808</updated>
-      <workItem from="1678376958404" duration="702000" />
+      <workItem from="1678376958404" duration="1171000" />
+      <workItem from="1678383565845" duration="4898000" />
+      <workItem from="1678389816928" duration="2220000" />
+      <workItem from="1678420306535" duration="5529000" />
+      <workItem from="1678427640674" duration="6429000" />
+      <workItem from="1678434861698" duration="1411000" />
+      <workItem from="1678439615081" duration="3478000" />
+      <workItem from="1678444839884" duration="1846000" />
+      <workItem from="1678476958051" duration="5053000" />
+      <workItem from="1678553667485" duration="2971000" />
+      <workItem from="1678633194420" duration="3824000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/amar-shop-server/controllers/CategoryController.js</url>
+          <line>3</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/amar-shop-server/controllers/ProductController.js</url>
+          <line>49</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/amar-shop-server/routes/ProductRoutes.js</url>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

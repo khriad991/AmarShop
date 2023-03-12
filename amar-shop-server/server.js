@@ -3,9 +3,10 @@ import dotenv from "dotenv"
 import morgan from "morgan"
 import connectDB from "./DB/DB.js";
 import authRoute from "./routes/authRoute.js";
-import CategoryRoute from "./routes/CategoryRoute.js";
+import CategoryRoutes from "./routes/CategoryRoutes.js";
 import color from 'colors'
 import cors from 'cors'
+import ProductRoutes from "./routes/ProductRoutes.js";
 
 
 //congig engv
@@ -21,14 +22,15 @@ app.use(express.json())
 app.use(express.urlencoded({extended: false}))
 
 // route ---------------->>>
+// readdirSync('./src/routes').map(allfile =>app.use('/api/v1',require(`./routes/${allfile}`)))
 app.use("/api/v1/auth", authRoute)
-app.use("/api/v1/category", CategoryRoute)
+app.use("/api/v1/category", CategoryRoutes);
+app.use("/api/v1/product",ProductRoutes )
 
 //rest api
 app.get("/aa", (req, res) => {
     res.send("<h1>Welcome to ecommerce app</h1>");
 });
-// readdirSync('./src/routes').map(r =>app.use('/api/v1',require(`./routes/${r}`)))
 
 let port = process.env.PORT || 6000;
 
@@ -43,7 +45,7 @@ connectDB().then(() => {
 
 
 // // app exports for devloy
-// module.exports = app;
+// export default  app;
 
 
 

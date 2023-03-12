@@ -26,7 +26,8 @@ export const CreateCategory = async (req, res) => {
         console.log(err)
         res.status(500).send({
             success: false,
-            massage: "Error in Category"
+            massage: "Error in Category",
+            err
         })
     }
 }
@@ -55,7 +56,8 @@ export const updateCategoryController = async (req, res) => {
         console.log(err)
         res.status(500).send({
             success: false,
-            massage: 'Error whilec collageing update Controller '
+            massage: 'Error whilec collageing update Controller ',
+            err
         })
     }
 
@@ -72,12 +74,55 @@ export const allCategoryController = async (req, res) => {
             massage: "All Categories list",
             category
         })
-
     } catch (err) {
         console.log(err)
         res.status(500).send({
             success: false,
-            massage: "error while colling all Category controller"
+            massage: "error while colling all Category controller",
+            err
+        })
+    }
+}
+
+
+// slngle category --->>>>
+export const singleCategory = async (req, res)=>{
+    try{
+        const category = await CategoryModel.findOne({slug:req.params.slug})
+        res.status(200).send({
+            success:true,
+            massage:'Get single category successful',
+            category
+        })
+
+    }catch(err){
+       console.log(err)
+        res.status(500).send({
+            success:false,
+            massgae:'error while colling single Category',
+            err
+        })
+    }
+}
+
+
+// delete category ------->>>>
+export const deleteCategory = async(req,res)=>{
+    try{
+        const {id } = req.params
+        const category = await CategoryModel.findByIdAndDelete(id)
+        res.status(200).send({
+            success:true,
+            massage:'Category delete Successful',
+            category
+        })
+
+    }catch(err){
+       console.log(err)
+        res.status(500).send({
+            success:false,
+            massage:"error while coling deleter catagory ",
+            err
         })
     }
 }

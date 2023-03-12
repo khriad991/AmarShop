@@ -8,7 +8,7 @@ const categorySchema = new mongoose.Schema({
         unique: true
     },
     slug: {
-        trim: true,
+        // trim: true,
         type: String,
         toLowerCase: true
 
@@ -16,4 +16,4 @@ const categorySchema = new mongoose.Schema({
 }, {versionKey: false, timestamps: true})
 
 
-export default mongoose.model("Cetagory", categorySchema);
+export default mongoose.model("Category", categorySchema);

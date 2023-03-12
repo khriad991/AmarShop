@@ -8,6 +8,7 @@
     "@testing-library/user-event": "^13.5.0",
     "antd": "^5.1.7",
     "axios": "^1.2.5",
+    "bootstrap": "^5.2.3",
     "braintree-web-drop-in-react": "^1.2.1",
     "cogo-toast": "^4.2.3",
     "moment": "^2.29.4",
